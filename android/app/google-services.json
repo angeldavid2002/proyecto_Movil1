@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878809032024",
+    "project_id": "tu-tendero-bfff2",
+    "storage_bucket": "tu-tendero-bfff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878809032024:android:699a559ec24ec18fd4312d",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878809032024-04sqj25k8dc3grmq5n3t08t6d8p5sn4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcGcjUm9dqY5-M9A1lySeUxoMCXRhosYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878809032024-04sqj25k8dc3grmq5n3t08t6d8p5sn4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
